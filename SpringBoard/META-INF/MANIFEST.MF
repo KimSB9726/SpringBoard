@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringBoard
+Bundle-SymbolicName: SpringBoard
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: SpringBoard
+Export-Package: com.itwillbs.controller,
+ com.itwillbs.domain,
+ com.itwillbs.persistence,
+ com.itwillbs.service
